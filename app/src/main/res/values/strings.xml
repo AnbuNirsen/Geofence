@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeofenseAppImplementation</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="geofence_added">GeoFence Added</string>
+    <string name="add_geofence">"we can Add Geofence "</string>
+    <string name="location_permission_required">we need background location permission to trigger geofence</string>
+    <string name="permission_needed">Permission Needed!</string>
+    <string name="location_permission_needed">Location Permission Needed!</string>
+    <string name="background_location_permission_needed">"Background Location Permission Needed!, tap \"Allow all time in the next screen\""</string>
+    <string name="geofence_service_not_available">Geofence service is not available now.</string>
+    <string name="too_many_geofences">Your app has registered too many geofences.</string>
+    <string name="location_permission_not_given">doesn\'t have sufficient location permission to perform geofencing operations</string>
+    <string name="geofence_notification">Geofence Notification</string>
+    <string name="notification_permission_description">Notification Permission needed to display Geofence status as Notification</string>
+    <string name="notification_permission_granted">Notification Permission granted</string>
+    <string name="notification_permission_already_given">Notification Permission already given</string>
+</resources>
